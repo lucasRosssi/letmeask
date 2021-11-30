@@ -1,4 +1,4 @@
-# 👨‍💻 Projeto realizado na trilha React da NLW 06</h3>
+# 👨‍💻 Projeto realizado na trilha React da NLW 06
 <img src="src/assets/images/letmeask.svg" alt="Letmeask" /> <br />
 <h2>💡 Tecnologias</h2>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
